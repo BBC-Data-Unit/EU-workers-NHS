@@ -35,6 +35,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Portsmouth: The News: [Brexit effect blamed as growing number of nurses leave QA Hospital](http://www.portsmouth.co.uk/news/health/brexit-effect-blamed-as-growing-number-of-nurses-leave-qa-hospital-1-8197977)
 * Southern Daily Echo: [Percent of EU staff joining a Southampton NHS trust falling annually](http://www.dailyecho.co.uk/news/15597559.More_EU_staff_quit_Hampshire_NHS_trust/)
 * Loughborough Echo: [Rise in EU staff quitting Leicestershire healthcare](http://www.loughboroughecho.net/news/rise-eu-staff-quitting-leicestershire-13756137)
+* Isle of Wight County Press: [Drop in EU staff joining Isle of Wight NHS after Brexit](http://www.iwcp.co.uk/news/news/Drop-in-EU-staff-joining-Isle-of-Wight-NHS-after-Brexit-316875.aspx)
 
 
 ## Get the data
