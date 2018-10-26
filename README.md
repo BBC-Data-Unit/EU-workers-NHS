@@ -51,3 +51,11 @@ The Shared Data Hub makes data journalism available to news organisations across
 ## Background and briefing
 
 * [Project briefing](https://docs.google.com/document/d/1VaLfh7Dq3IK_4SF2IsGpAmOOhc0CLbnxaShUct9f2OE/edit)
+
+## Related repos
+
+* [The EU nationals offered right to stay](https://github.com/BBC-Data-Unit/brexit-eu-nationals) - BBC England Data Unit
+
+## Related stories
+
+A year on from this story, the **Bureau Local** [looked at hospitals' reliance on staff from the EU](https://www.thebureauinvestigates.com/stories/2018-10-23/eu-doctors-nurses-hospitals-staffing-crisis): "Key hospitals across England depend on the European Union for more than one in five doctors or nurses," they reported. "Meanwhile recruitment from the EU has “plummeted”, said Danny Mortimer, chief executive of NHS Employers, warning that if numbers of nurses continued to fall then waiting times would go up dramatically."
